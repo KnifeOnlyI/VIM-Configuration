@@ -9,7 +9,7 @@ Clone this repository and name it ".vim" :
 
 ```bash
 cd ~
-git clone git@github.com:KnifeOnlyI/VIM-Configuration .vim
+git clone https://github.com/KnifeOnlyI/VIM-Configuration .vim
 ```
 
 Install pathogen :
