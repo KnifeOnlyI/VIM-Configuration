@@ -26,4 +26,11 @@ cd ~/.vim/pathogen
 git pull 
 ```
 
+Install plugins :
+
+```bash
+cd ~/.vim/bundle
+git clone https://github.com/jiangmiao/auto-pairs
+```
+
 Finish ! You've just installed my vim configuration
