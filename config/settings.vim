@@ -4,6 +4,7 @@ set background=dark
 set mouse=a
 set tabstop=4
 set shiftwidth=4
+set colorcolumn=81
 
 set showmatch
 set showcmd
