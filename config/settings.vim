@@ -13,6 +13,8 @@ set number
 set hidden
 set expandtab
 
+let g:asmsyntax = 'nasm'
+
 if has("autocmd")
   au bufreadpost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
 endif
